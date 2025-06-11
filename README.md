@@ -547,7 +547,10 @@ O código começou a realizar a operação no seguinte intervalo de tempo:
 Além disso, o processo apresentou um tempo médio de **4 segundos para cada dado inserido no banco de dados**.
 
 ## 👥 Autores
-Ageu Moraes,
-Mozart Dias,
-Rafael Machado,
-Thayssa Romão.
+[Ageu Moraes](https://www.linkedin.com/in/ageu-felipe-nunes-moraes-98b688268/)
+
+[Thayssa Romão](https://www.linkedin.com/in/thayssa-rom%C3%A3o-31a94424b/)
+
+Mozart Dias
+
+Rafael Machado
